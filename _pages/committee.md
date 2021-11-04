@@ -1,9 +1,8 @@
 ---
 layout: page
-title: committee
+title: COMMITTEES
 permalink: /committee/
 ---
-# **COMMITTEES**
 
 **Programming Chairs**
 
