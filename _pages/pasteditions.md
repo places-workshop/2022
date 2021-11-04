@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Past Editions
+title: PAST EDITIONS
 permalink: /past-editions/
 ---
 
 ##
-
-# **PAST EDITIONS**
 
 - [PLACES&#39;19](https://conf.researchr.org/home/etaps-2019/places-2019) was in Prague with [ETAPS](https://www.etaps.org/2019)
 - [PLACES&#39;17](http://places17.by.di.fc.ul.pt/) was in Uppsala with [ETAPS](https://www.etaps.org/2017)
