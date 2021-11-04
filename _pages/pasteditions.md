@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PAST EDITIONS
+title: Past Editions
 permalink: /past-editions/
 ---
 
