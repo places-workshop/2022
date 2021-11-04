@@ -5,6 +5,7 @@ permalink: /past-editions/
 ---
 
 ##
+
 # **PAST EDITIONS**
 
 - [PLACES&#39;19](https://conf.researchr.org/home/etaps-2019/places-2019) was in Prague with [ETAPS](https://www.etaps.org/2019)
