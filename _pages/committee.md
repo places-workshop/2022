@@ -30,4 +30,3 @@ permalink: /committee/
 - [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London
 - [Luca Padovani](http://www.di.unito.it/~padovani/), University of Torino
 
-#
