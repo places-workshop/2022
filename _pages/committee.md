@@ -23,7 +23,7 @@ permalink: /committee/
 - [Julien Lange](https://pure.royalholloway.ac.uk/portal/en/persons/julien-lange(55a85423-9481-4565-9339-224891092d5e).html), Royal Holloway University of London, UK
 - [Jonas Hinrichsen](https://pure.au.dk/portal/en/persons/jonas-kastberg-hinrichsen(47107d73-8750-4515-ba0f-33c7ba993099).html), Aarhus University, Denmark
 
-#### **Organising committee**
+**Organising committee**
 
 - [Simon Gay](http://www.dcs.gla.ac.uk/~simon/), University of Glasgow
 - [Vasco T. Vasconcelos](https://www.di.fc.ul.pt/~vv/), Universidade de Lisboa
