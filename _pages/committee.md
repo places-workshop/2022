@@ -24,6 +24,7 @@ permalink: /committee/
 - [Jonas Hinrichsen](https://pure.au.dk/portal/en/persons/jonas-kastberg-hinrichsen(47107d73-8750-4515-ba0f-33c7ba993099).html), Aarhus University, Denmark
 - [Farzaneh Derakhshan](https://www.andrew.cmu.edu/user/fderakhs/), Carnegie Mellon University, USA
 - [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
+
 **Organising committee**
 
 - [Simon Gay](http://www.dcs.gla.ac.uk/~simon/), University of Glasgow
