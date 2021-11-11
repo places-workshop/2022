@@ -4,12 +4,12 @@ title: COMMITTEE
 permalink: /committee/
 ---
 
-**Programming Chairs**
+**Programme Chairs**
 
 - [Marco Carbone](http://www.itu.dk/~maca/), IT-University of Denmark
 - [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova), Brunel University London
 
-**Programming Committee**
+**Programme Committee**
 
 - [Keigo Imai](https://keigoimai.info/), Gifu University, Japan
 - [Antonio Ravara](http://ctp.di.fct.unl.pt/~aravara/), New University of Lisbon, Portugal
