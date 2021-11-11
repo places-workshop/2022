@@ -8,7 +8,7 @@ The increasingly concurrent and parallel landscape of hardware and software infr
 
 **Submissions** 
 
-Submissions are invited in the general area of programming language approaches to concurrency, communication and distribution, ranging from foundational issues, through language implementations, to applications and case studies. Submissions are peer-reviewed by a minimum of three reviewers, with the aim of allocating at least one expert reviewer. Papers are reviewed based on their **novelty**, **clarity**, and **technical soundness**. Submissions must not be submitted for publication elsewhere and must be formatted in **EPTCS format**, containing a **maximum of 8 pages** (with no restriction on bibliography or appendices, which the reviewers need not read). Accepted papers will be published as an issue of EPTCS. Submission site: https://easychair.org/my/conference?conf=places22# 
+Submissions are invited in the general area of programming language approaches to concurrency, communication and distribution, ranging from foundational issues, through language implementations, to applications and case studies. Submissions are peer-reviewed by a minimum of three reviewers, with the aim of allocating at least one expert reviewer. Papers are reviewed based on their **novelty**, **clarity**, and **technical soundness**. Submissions must not be submitted for publication elsewhere and must be formatted in [**EPTCS format**](http://about.eptcs.org/), containing a **maximum of 8 pages** (with no restriction on bibliography or appendices, which the reviewers need not read). Accepted papers will be published as an issue of EPTCS. Submission site: https://easychair.org/my/conference?conf=places22# 
 
 **Topics**
 
