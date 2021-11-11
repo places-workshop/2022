@@ -29,4 +29,4 @@ Relevant topics include, but are not limited to:
 * Workshop: 3rd April 2022
 
 **Special Issues**
-Authors of selected papers from PLACES 2022 will be invited to submit extended versions of their workshop papers to a special issue to Information and Computation and/or JLAMP. 
+Authors of selected papers from PLACES 2022 will be invited to submit extended versions of their workshop papers to a special issue to [Information and Computation](https://www.journals.elsevier.com/information-and-computation) and/or [JLAMP](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming). 
