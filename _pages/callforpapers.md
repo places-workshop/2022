@@ -24,8 +24,8 @@ Relevant topics include, but are not limited to:
 
 **Important dates**
 * Submission deadline: 4th February 2022, AOE
-* Author notification: 28 February 2020, AOE
-* Camera ready: 11 March 2020, AOE
+* Author notification: 28 February 2022, AOE
+* Camera ready: 11 March 2022, AOE
 * Workshop: 3rd April 2022
 
 **Special Issues**
