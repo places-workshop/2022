@@ -27,8 +27,8 @@ permalink: /committee/
 
 **Organising committee**
 
-- [Simon Gay](http://www.dcs.gla.ac.uk/~simon/), University of Glasgow
 - [Vasco T. Vasconcelos](https://www.di.fc.ul.pt/~vv/), Universidade de Lisboa
-- [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London
+- [Simon Gay](http://www.dcs.gla.ac.uk/~simon/), University of Glasgow
 - [Luca Padovani](http://www.di.unito.it/~padovani/), University of Torino
+- [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London
 
