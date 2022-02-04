@@ -19,7 +19,6 @@ The proceedings of PLACES 2022 will be published as a volume of EPTCS.
 Submission site: https://easychair.org/conferences/?conf=places22
 
 
-
 **Topics**
 
 Relevant topics include, but are not limited to:
