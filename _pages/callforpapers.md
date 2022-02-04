@@ -9,11 +9,13 @@ The increasingly concurrent and parallel landscape of hardware and software infr
 **Submissions** 
 
 Submissions are invited in the general area of programming language approaches to concurrency, communication and distribution, ranging from foundational issues, through language implementations, to applications and case studies. Submissions are peer-reviewed by a minimum of three reviewers, with the aim of allocating at least one expert reviewer. Papers are reviewed based on their **novelty**, **clarity**, and **technical soundness**. Submissions must not be submitted for publication elsewhere and must be formatted in [**EPTCS format**](http://style.eptcs.org/). 
+
 We accept the following submissions: 
 * Full Research papers containing a maximum of 8 pages (with no restriction on bibliography or appendices, which the reviewers need not read). Full research papers will appear in the workshop proceedings
 * **(NEW)** Extended abstracts containing a maximum of 2 pages (with no restriction on bibliography or appendices, which the reviewers need not read). Accepted extended abstracts will be presented at the workshop, but will not appear in the workshop proceedings. 
 
 The proceedings of PLACES 2022 will be published as a volume of EPTCS. 
+
 Submission site: https://easychair.org/conferences/?conf=places22
 
 
