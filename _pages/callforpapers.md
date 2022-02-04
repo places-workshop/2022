@@ -33,7 +33,7 @@ Relevant topics include, but are not limited to:
 * Concurrency and communication in event processing and business process management
 
 **Important dates**
-* Submission deadline: ~~4th February 2022, AOE~~ **7the February 2022, AoE**
+* Submission deadline: ~~4th February 2022, AOE~~ **11th the February 2022, AoE**
 * Author notification: 28 February 2022, AOE
 * Camera ready: 11 March 2022, AOE
 * Workshop: 3rd April 2022
