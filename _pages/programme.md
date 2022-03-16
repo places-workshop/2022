@@ -8,13 +8,13 @@ permalink: /programme/
 
 [8:55] Welcome & Introduction
 
-[9:00] Invited Talk: Ilya Sergey [TBA]
+[9:00] Invited Talk: Ilya Sergey. _Growing a Smart Contract Language for a High-Throughput Blockchain_
 
 
 [10:00] Coffee Break
 
 
-[10:30]*  Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types
+[10:30]*  _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_
 
 [11:00]*  Asynchronous Sessions with Input Races
 
