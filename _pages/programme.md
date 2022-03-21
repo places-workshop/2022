@@ -28,7 +28,7 @@ permalink: /programme/
 [12:30] Lunch Break
 
 
-[14:00]* Polymorphic Higher-Order Context-Free Session Types
+[14:00]* Higher-order Context-free Session Types in System F
 
 [14:30]* Provable GPU Data-Races in Static Race Detection
 
