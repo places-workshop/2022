@@ -73,7 +73,9 @@ on smart contract implementation.
 
 
 <BR>
+
 [12:30] Lunch Break
+
 <BR>
 
 
@@ -91,7 +93,9 @@ on smart contract implementation.
 
 
 <BR>
+
 [16:00] Coffee Break
+
 <BR>
 
 
