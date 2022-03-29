@@ -16,7 +16,10 @@ permalink: /programme/
 
 [9:00] Ilya Sergey. _Growing a Smart Contract Language for a High-Throughput Blockchain_
 
-<details markdown='1'><summary>Abstract</summary>
+
+<details>
+
+<summary>Abstract</summary>
 
 The Scilla project, aimed at creating a programming language for safe
 and secure smart contracts, has started in late 2017 as a
@@ -45,7 +48,9 @@ different notions of safety and enabling sharding-based
 parallelism. Finally, I will outline the pragmatic pitfalls of
 building a new smart contract language from scratch, and present the
 future exciting research directions that are enabled by Scilla's take
-on smart contract implementation.  </details>
+on smart contract implementation.
+
+</details>
 
 <BR>
 
