@@ -8,14 +8,17 @@ permalink: /programme/
 [8:55] Welcome & Introduction (by M. Carbone and R. Neykova)
 
 
-Invited Talk (chair: Marco Carbone)
+**Invited Talk (chair: Marco Carbone)**
+
 [9:00] Invited Talk: Ilya Sergey. _Growing a Smart Contract Language for a High-Throughput Blockchain_
 
+<BR>
 
 [10:00] Coffee Break
 
 <BR>
-Morning Session (chair: TBA)
+
+**Morning Session (chair: TBA)**
 
 [10:30]*  _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_
 
@@ -28,11 +31,12 @@ Morning Session (chair: TBA)
 [12:10] Towards Refined Multiparty Session Types in Rust
 
 
-[12:30] Lunch Break
-
-
 <BR>
-Afternoon Session (chair: TBA)
+[12:30] Lunch Break
+<BR>
+
+
+**Afternoon Session (chair: TBA)**
 
 [14:00]* Higher-order Context-free Session Types in System F
 
@@ -45,11 +49,12 @@ Afternoon Session (chair: TBA)
 [15:40] Unreliable Multiparty Communicating Automata
 
 
-[16:00] Coffee Break
-
-
 <BR>
-Evening Session (chair: TBA)
+[16:00] Coffee Break
+<BR>
+
+
+**Evening Session (chair: TBA)**
 
 [16:30]* Lang-n-Send: Processes That Send Languages
 
