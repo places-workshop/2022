@@ -99,7 +99,7 @@ on smart contract implementation.
 <BR>
 
 
-**Evening Session (chair: TBA)**
+**Evening Session (chair: Paola Giannini)**
 
 [16:30] M. Cimini. _Lang-n-Send: Processes That Send Languages_ (long paper)
 
