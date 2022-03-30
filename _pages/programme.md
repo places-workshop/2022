@@ -12,7 +12,7 @@ permalink: /programme/
 [8:55] Welcome & Introduction (by M. Carbone and R. Neykova)
 
 
-**Invited Talk (chair: Marco Carbone)**
+**Invited Talk (chair: M. Carbone)**
 
 [9:00] Ilya Sergey. _Growing a Smart Contract Language for a High-Throughput Blockchain_
 
