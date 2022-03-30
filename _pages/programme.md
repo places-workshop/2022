@@ -59,7 +59,7 @@ on smart contract implementation.
 
 <BR>
 
-**Morning Session (chair: TBA)**
+**Morning Session (chair: V. Vasconcelos)**
 
 [10:30]  D. Marshall, D. Orchard. _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_ (long paper)
 
@@ -79,7 +79,7 @@ on smart contract implementation.
 <BR>
 
 
-**Afternoon Session (chair: TBA)**
+**Afternoon Session (chair: D. Orchard)**
 
 [14:00] D. Costa, A. Mordido, D. Pocas, V. Vasconcelos. _Higher-order Context-free Session Types in System F_ (long paper)
 
