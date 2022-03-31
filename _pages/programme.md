@@ -63,7 +63,7 @@ on smart contract implementation.
 
 [10:30]  D. Marshall, D. Orchard. _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_ (long paper)
 
-[11:00]  I. Castellani, M. Dezani-Ciancaglini. _Asynchronous Sessions with Input Races_ (long paper)
+[11:00]  I. Castellani, M. Dezani-Ciancaglini, P. Giannini. _Asynchronous Sessions with Input Races_ (long paper)
 
 [11:30] M. Latifa, O. Dardha. _Capable GV: Capabilities for Session Types in GV_ 
 
