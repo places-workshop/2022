@@ -62,7 +62,7 @@ on smart contract implementation.
 
 **Morning Session (chair: V. Vasconcelos)**
 
-[10:30]  D. Marshall, D. Orchard. _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_ (long paper)
+[10:30]  D. Marshall, D. Orchard. _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_ (long paper) (📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/replicate-reuse-repeat.pdf))
 
 [11:00]  I. Castellani, M. Dezani-Ciancaglini, P. Giannini. _Asynchronous Sessions with Input Races_ (long paper)(📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/Asynchronous-Sessions-with-Input-Races.pdf))
 
