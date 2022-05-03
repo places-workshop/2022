@@ -82,7 +82,7 @@ on smart contract implementation.
 
 **Afternoon Session (chair: D. Orchard)**
 
-[14:00] D. Costa, A. Mordido, D. Pocas, V. Vasconcelos. _Higher-order Context-free Session Types in System F_ (long paper)
+[14:00] D. Costa, A. Mordido, D. Pocas, V. Vasconcelos. _Higher-order Context-free Session Types in System F_ (long paper) (📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/%20Higher-order%20context-free-session-types.pdf))
 
 [14:30] D. Liew, T. Cogumbreiro, J. Lange. _Provable GPU Data-Races in Static Race Detection_ (long paper)
 
