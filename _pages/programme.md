@@ -104,7 +104,7 @@ on smart contract implementation.
 
 [16:30] M. Cimini. _Lang-n-Send: Processes That Send Languages_ (long paper)
 
-[17:00] L. Bacchiani, M. Bravetti, M. Giunti, J. Mota and A. Ravara. _Java Subtypestate Checker_
+[17:00] L. Bacchiani, M. Bravetti, M. Giunti, J. Mota and A. Ravara. _Java Subtypestate Checker_. 📖[slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/java-subtypestate-checker.pdf)
 
 [17:20] T. Hildebrandt. _DCR Graphs: Maintainable Graph-based Models of Machine Readable and Executable Regulations_
 
