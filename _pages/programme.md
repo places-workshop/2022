@@ -64,7 +64,7 @@ on smart contract implementation.
 
 [10:30]  D. Marshall, D. Orchard. _Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types_ (long paper)
 
-[11:00]  I. Castellani, M. Dezani-Ciancaglini, P. Giannini. _Asynchronous Sessions with Input Races_ (long paper)
+[11:00]  I. Castellani, M. Dezani-Ciancaglini, P. Giannini. _Asynchronous Sessions with Input Races_ (long paper)(📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/Asynchronous-Sessions-with-Input-Races.pdf))
 
 [11:30] M. Latifa, O. Dardha. _Capable GV: Capabilities for Session Types in GV_ 
 
@@ -104,7 +104,7 @@ on smart contract implementation.
 
 [16:30] M. Cimini. _Lang-n-Send: Processes That Send Languages_ (long paper)
 
-[17:00] L. Bacchiani, M. Bravetti, M. Giunti, J. Mota and A. Ravara. _Java Subtypestate Checker_. 📖[slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/java-subtypestate-checker.pdf)
+[17:00] L. Bacchiani, M. Bravetti, M. Giunti, J. Mota and A. Ravara. _Java Subtypestate Checker_. (📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/java-subtypestate-checker.pdf))
 
 [17:20] T. Hildebrandt. _DCR Graphs: Maintainable Graph-based Models of Machine Readable and Executable Regulations_
 
