@@ -66,7 +66,7 @@ on smart contract implementation.
 
 [11:00]  I. Castellani, M. Dezani-Ciancaglini, P. Giannini. _Asynchronous Sessions with Input Races_ (long paper)(📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/Asynchronous-Sessions-with-Input-Races.pdf))
 
-[11:30] M. Latifa, O. Dardha. _Capable GV: Capabilities for Session Types in GV_ 
+[11:30] M. Latifa, O. Dardha. _Capable GV: Capabilities for Session Types in GV_. (📖 [slides](https://github.com/places-workshop/places-workshop.github.io/blob/presentation-2020/presentations/Capable-GV.pdf))
 
 [11:50] K. Imai. _Polymorphic Multiparty Session Handlers in OCaml_
 
